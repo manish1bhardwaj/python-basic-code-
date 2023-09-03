@@ -1,0 +1,6 @@
+a=float(input("enter the first number"))
+b=float(input("entre the second number"))
+(a,b)=(b,a)
+print("swapped the number")
+print("the value of",a)
+print("the value of",b,)
